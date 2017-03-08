@@ -4,4 +4,4 @@
 ```shell
 npm i & npm start
 ```
-watch localhost:2333/test
+watching localhost:2333/test
